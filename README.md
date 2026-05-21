@@ -1,7 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:1e3a5f,60:0c1e3e,100:060810&height=200&section=header&text=Mustafa%20Atef&fontSize=50&fontColor=3b82f6&fontAlignY=38&desc=Data%20Engineer&descAlignY=58&descColor=64748b)
-
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,60:0c1e3e,100:1e3a8a&height=220&section=header&text=Mustafa%20Atef&fontSize=55&fontColor=ffffff&fontAlignY=40&fontAlign=50&desc=Data%20Engineer%20%7C%20Python%20%7C%20Big%20Data&descAlignY=60&descAlign=50&descColor=3b82f6&animation=fadeIn)
 </div>
 
 ---
