@@ -8,23 +8,6 @@
   <img src="https://img.shields.io/badge/BIG_DATA-2b1b00?style=for-the-badge&logo=apachehadoop&logoColor=ffbf00" />
 </p>
 
-<table>
-<tr>
-<td width="50%">
-
-### Data Engineer
-ROLE
-
-</td>
-
-<td width="50%">
-
-### Big Data · ETL · Warehousing
-SPECIALITY
-
-</td>
-</tr>
-</table>
 ---
 
 ## 🛠️ Tech Stack
