@@ -1,8 +1,30 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,60:0c1e3e,100:1e3a8a&height=220&section=header&text=Mustafa%20Atef&fontSize=55&fontColor=ffffff&fontAlignY=40&fontAlign=50&desc=Data%20Engineer%20%7C%20Python%20%7C%20Big%20Data&descAlignY=60&descAlign=50&descColor=3b82f6&animation=fadeIn)
-</div>
+![Header](https://capsule-render.vercel.app/api?type=rect&color=0:050816,40:07142b,100:0f2d68&height=300&section=header&text=Mustafa%20Atef&fontSize=62&fontColor=7db3ff&fontAlignY=34&desc=%3E%20engineering%20data%20pipelines_&descSize=22&descAlignY=58&descAlign=18&descColor=00ffd5&animation=fadeIn)
 
+<p align="left">
+  <img src="https://img.shields.io/badge/DATA_ENGINEERING-081b33?style=for-the-badge&logo=databricks&logoColor=7db3ff" />
+  <img src="https://img.shields.io/badge/MODELING-06281f?style=for-the-badge&logo=apache&logoColor=00ffbf" />
+  <img src="https://img.shields.io/badge/BIG_DATA-2b1b00?style=for-the-badge&logo=apachehadoop&logoColor=ffbf00" />
+</p>
+
+<table>
+<tr>
+<td width="50%">
+
+### Data Engineer
+ROLE
+
+</td>
+
+<td width="50%">
+
+### Big Data · ETL · Warehousing
+SPECIALITY
+
+</td>
+</tr>
+</table>
 ---
 
 ## 🛠️ Tech Stack
